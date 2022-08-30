@@ -60,7 +60,7 @@ Save your changes & upload if you need to.
 
 I have included a custom globals.xml file, which when uploaded to your servers db folder, it will stop zombies & animals spawning.
 
-I have included a custom cfgplayerspawnpoints.cml which when uploaded will make your players spawn at the NEAF, in case of the odd accident...
+I have included a custom cfgplayerspawnpoints.xml which when uploaded will make your players spawn at the NEAF, in case of the odd accident...
 
 Restart your server and the Grenade Practice Range will appear immediatly, and then it will be replensished on Server Restarts.
 
